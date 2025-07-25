@@ -1,0 +1,76 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Kathleen Leavitt",
+      "date": "May 15, 2025",
+      "rating": 5,
+      "text": "Absolutely delicious!! The Katsu Chicken was absolutely delightful - they use all chicken breast meat, not thighs, so there wasn’t any stringy or gummy meat at ALL!! Which is my sole complaint about other Katsu chicken places. I love the crust and the sauce; but have to compromise and eat meat I don’t love. No more compromising at Good Grindz!! I also tried the garlic chicken which was absolutely ridiculously good. And their Mac salad was the best I think I’ve ever had. This is my new fav spot for Hawaiian food 😁",
+      "profileImage": "https://avatar.oxro.io/avatar.svg?name=Kathleen+Leavitt"
+    },
+    {
+      "id": 2,
+      "author": "Michelle Johansen",
+      "date": "April 28, 2025",
+      "rating": 5,
+      "text": "Thank goodness Salem got a Good Grindz! Amazing, fresh food. The service was amazing, the workers are so kind and attentive. The owners are out of this world. Come and eat here!!! Get all the sauces your heart desires as well ♡",
+      "profileImage": "https://avatar.oxro.io/avatar.svg?name=Raquel+Acevedo"
+    },
+    {
+      "id": 3,
+      "author": "Drew McDowell",
+      "date": "May 2, 2025",
+      "rating": 5,
+      "text": "The curried katsu chicken is yum! And the grilled pineapple is delicious! My husband enjoyed the teriyaki chicken!",
+      "profileImage": "https://avatar.oxro.io/avatar.svg?name=Drew+McDowell"
+    },
+    {
+      "id": 4,
+      "author": "Holly Worthington",
+      "date": "May 10, 2025",
+      "rating": 5,
+      "text": "The curried katsu chicken is yum! And the grilled pineapple is delicious! My husband enjoyed the teriyaki chicken!",
+      "profileImage": "https://avatar.oxro.io/avatar.svg?name=Holly+Worthington"
+    },
+    {
+      "id": 5,
+      "author": "Todd Livingston",
+      "date": "April 15, 2025",
+      "rating": 5,
+      "text": "Can’t go wrong at this place. Tried just about everything and would try it all again! My favorite is the curry katsu and pineapple. Food came out fast and fresh. Katsu was super crispy. The girl taking my order was very polite and helpful with suggestions. Highly recommend!",
+      "profileImage": "https://avatar.oxro.io/avatar.svg?name=Todd+Livingston"
+    },
+    {
+      "id": 6,
+      "author": "James Lockwood",
+      "date": "May 22, 2025",
+      "rating": 5,
+      "text": "I passed this place on the way to work and decided to come back for lunch. I've always loved Hawaiian food, but this place is probably some of the best I've had since I lived in Hawaii. Katsu chicken was especially good.",
+      "profileImage": "https://avatar.oxro.io/avatar.svg?name=James+Lockwood"
+    },
+    {
+      "id": 7,
+      "author": "Heather Jackson",
+      "date": "May 8, 2025",
+      "rating": 5,
+      "text": "Absolutely love Good Grindz! Every time I visit, the food is fresh, flavorful, and clearly made with care. The staff are incredibly friendly and welcoming, and the atmosphere is warm and welcoming, which is all indicative of the aloha spirit. Whether you’re stopping by for a quick bite or sitting down for a full meal, it always feels like a treat. Their garlic chicken and guava cake is so ono! So happy to have a place like this in the community. Highly recommend!",
+      "profileImage": "https://avatar.oxro.io/avatar.svg?name=Heather+Jackson"
+    },
+    {
+      "id": 8,
+      "author": "Stockton Peterson",
+      "date": "April 30, 2025",
+      "rating": 5,
+      "text": "Good Grindz is the best Hawaiian food you can get. Huge portions, and it all tastes insanely good. I loved Mo Bettahs before but now I can’t go back now that I’ve had this food. I even had them cater for our wedding haha. 11/10 recommend.",
+      "profileImage": "https://avatar.oxro.io/avatar.svg?name=Stockton+Peterson"
+    },
+    {
+      "id": 9,
+      "author": "Chris Davis",
+      "date": "April 30, 2025",
+      "rating": 5,
+      "text": "Fun Hawaiian place out in Salem. We spoke with the owner who was super friendly and made sure we had enough sauce. The Hawaiian food was on point and tasted great (I got some pineapple with my mac salad and the juice gave it a bit of extra vim). As a Brit “chips and gravy” from a Fish and Chips shop is something I deeply miss from home. The gravy and curry sauce that come with the fries were spot on flavour and consistency wise and were a real joy. The only thing missing was the malt vinegar! I will be back again.",
+      "profileImage": "https://avatar.oxro.io/avatar.svg?name=Chris+Davis"
+    }
+  ]
+}
